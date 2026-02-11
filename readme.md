@@ -1,6 +1,17 @@
-# Eclipse Enhance
+# DBeaver Eclipse NVDA
 
-## [Download the latest version of the addon](https://github.com/albzan/eclipse-nvda/releases/download/2024.1/eclipseEnhance-2024.1.nvda-addon)
+## About This Fork
+
+This is a **modernized fork** of the [original Eclipse Enhance addon](https://github.com/albzan/eclipse-nvda) by Alberto Zanella, specifically enhanced for DBeaver support.
+
+**Key improvements in this version:**
+- Updated for NVDA 2025.3 compatibility
+- Modern code structure with type hints and comprehensive error handling
+- Improved documentation and development guidelines
+- Better code organization following current NVDA best practices
+- Enhanced for DBeaver IDE compatibility
+
+## [Download the latest version of the addon](https://github.com/jeanbrazcosta/DBeaver-eclipse-nvda/releases)
 
 This NVDA Add-on offers an enhanced support while working in the eclipse IDE.
 
