@@ -2,8 +2,8 @@
 	"addonId": "DBeaver-eclipse-nvda",
 	"displayName": "DBeaver Eclipse NVDA",
 	"URL": "",
-	"description": "Enhance the speech and braille support while using the DBeaver and Eclipse IDE reportings errors and warnings.",
-	"sha256": "9f159b16db83b28f27f93036c6994108622b44da9073740cc13ce5036e736cf5",
+	"description": "Enhance the speech and braille support while using the Eclipse IDE reportings errors and warnings.",
+	"sha256": "27d9f05a5db413e0bf4db8d90b8b3e3b42a36b7dfc025f26f75bde8d40d887b9",
 	"homepage": "https://github.com/jeanbrazcosta/DBeaver-eclipse-nvda",
 	"addonVersionName": "2025.1",
 	"addonVersionNumber": {
@@ -24,6 +24,6 @@
 	"channel": "stable",
 	"publisher": "",
 	"sourceURL": "https://github.com/jeanbrazcosta/DBeaver-eclipse-nvda",
-	"license": null,
-	"licenseURL": null
+	"license": "GPL-2.0",
+	"licenseURL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
 }
