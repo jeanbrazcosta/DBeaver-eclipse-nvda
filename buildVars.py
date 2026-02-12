@@ -43,9 +43,8 @@ addon_info = {
 	# Do not change unless you know what you are doing!
 	"addon_updateChannel": None,
 	# Add-on license such as GPL 2
-	"addon_license": None,
-	# URL for the license document the ad-on is licensed under
 	"addon_license": "GPL-2.0",
+	# URL for the license document the add-on is licensed under
 	# URL for the license document the add-on is licensed under
 	"addon_licenseURL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
 }

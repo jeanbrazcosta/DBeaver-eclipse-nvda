@@ -17,7 +17,7 @@ This add-on enhances speech and braille support in Eclipse IDE by:
 
 import os
 import logging
-from typing import Dict, List, Optional
+from typing import List
 
 from scriptHandler import script
 import addonHandler
@@ -47,6 +47,11 @@ except ImportError:
 
 # Initialize translations - this makes the '_' function available
 addonHandler.initTranslation()
+try:
+	_
+except NameError:
+	def _(s):
+		return s
 
 log = logging.getLogger(__name__)
 
