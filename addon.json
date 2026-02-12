@@ -22,7 +22,7 @@
 		"patch": 0
 	},
 	"channel": "stable",
-	"publisher": "",
+	"publisher": "Jean Braz",
 	"sourceURL": "https://github.com/jeanbrazcosta/DBeaver-eclipse-nvda",
 	"license": "GPL-2.0",
 	"licenseURL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
