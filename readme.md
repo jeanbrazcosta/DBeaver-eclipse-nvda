@@ -6,7 +6,7 @@ This is a **modernized fork** of the [original Eclipse Enhance addon](https://gi
 
 **Key improvements in this version:**
 - Updated for NVDA 2025.3 compatibility
-- Version 2026.0 will be released on the stable channel
+- Version 2026.1.0 will be released on the stable channel
 - Compatible with NVDA 2026.1
 - Modern code structure with type hints and comprehensive error handling
 - Improved documentation and development guidelines
