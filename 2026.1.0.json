@@ -3,7 +3,7 @@
   "displayName": "DBeaver Eclipse NVDA",
   "URL": "",
   "description": "Enhance the speech and braille support while using the Eclipse IDE reporting errors and warnings.",
-  "sha256": "PLACEHOLDER_SHA256_HASH_NEEDS_TO_BE_UPDATED_AFTER_BUILDING_ADDON",
+  "sha256": "f759355d3a392ddda1fd794ad4c806aa65d53b5cc27f48ba19f39f97f24841c6",
   "homepage": "https://github.com/jeanbrazcosta/DBeaver-eclipse-nvda",
   "addonVersionName": "2026.1",
   "addonVersionNumber": {
