@@ -11,6 +11,9 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
 
@@ -63,6 +66,8 @@ jobs:
 
     - name: Release
       uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         files: release_files/*
         fail_on_unmatched_files: true
